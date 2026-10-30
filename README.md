@@ -6,4 +6,4 @@ This project is developed using Java. It demonstrates the basic concepts of Java
  Technologies Used
 - Java
 - JDK
-- VS Code 
+- VS Code or andriod studio
