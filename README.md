@@ -1,9 +1,9 @@
-Java Project 
+Flutter  Project 
 
 Description of the project
-This project is developed using Java. It demonstrates the basic concepts of Java programming such as variables, loops, conditional statements, methods, and object-oriented programming.
+This project is developed using dart programing language. It demonstrates the basic concepts of dart programming such as variables, loops, conditional statements, methods, and object-oriented programming.
 
  Technologies Used are :
-- Java
-- JDK
+- FLutter 
+- Dart
 - VS Code or andriod studio
